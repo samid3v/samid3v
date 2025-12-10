@@ -7,7 +7,7 @@ Fullstack Developer
 Passionate MERN Stack Developer building dynamic web applications with MongoDB, Express.js, React, and Node.js. 🚀 Constantly exploring new technologies and frameworks to enhance user experiences and optimize performance. 💻 Let's collaborate and bring ideas to life! Open to exciting opportunities and eager to contribute to impactful projects
 
 * 🌍  I'm based in Nairobi, KEN
-* 🖥️  See my portfolio at [Portfolio Link](http://petfarm.onrender.com)
+* 🖥️  See my portfolio at [Portfolio Link](https://samidev-portfolio.vercel.app/)
 * ✉️  You can contact me at [swanyoike154@gmail.com](mailto:swanyoike154@gmail.com)
 * 🚀  I'm currently working on [Pet Management System](http://petfarm.onrender.com)
 * 🧠  I'm learning Next Js and Tanstack Query
